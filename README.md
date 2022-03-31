@@ -7,3 +7,4 @@ App criada para visualização de dados de criptomoedas
 - React Native
 - React Native Elements
 - React Use Websocket
+- Binance Streams
